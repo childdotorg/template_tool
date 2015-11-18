@@ -18,5 +18,5 @@
  --------------------------------------------------------------------------
 
 ##Install instructions
- - copy files from content/orginal into content and customise
- - Give write permissions on the storage/templates folder
+ - copy files from `/content/orginal` into `/content` and customise
+ - Give write permissions on the `/storage/templates` folder
