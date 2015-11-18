@@ -32,7 +32,7 @@ echo '<?xml version="1.0" encoding="utf-8" ?>';
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 
 <head>
-	<title>LLR - Template Tool Field Editor</title>
+	<title>Editor | Child.org template tool</title>
 	<link rel="stylesheet" type="text/css" href="style-editor.css" />
 	<script src="functions.js" type="text/javascript"> </script>
 	<script src="functions-editor.js" type="text/javascript"> </script>
